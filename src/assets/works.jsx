@@ -16,7 +16,7 @@ export default function MyWorks({work}){
                     <div className='hover'>
                         <div style={{fontWeight:'bold'}}>Rock Paper Scissors</div>
                         <div>This lets you play the rock paper scissors game</div>
-                        <a href='https://rock-paper-scissors-11r.pages.dev/' target='_blank' className='navigate-button'>
+                        <a href='https://rps.utsargamanandhar.com.np' target='_blank' className='navigate-button'>
                             <IoNavigate />
                         </a>
                     </div>
